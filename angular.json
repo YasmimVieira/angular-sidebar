@@ -144,6 +144,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "side-bar-poc"
+    }
+  },
+  "defaultProject": "side-bar-poc",
+  "cli": {
+    "analytics": "465170f2-5194-4d7c-ba78-bc9f619d00c3"
+  }
 }
